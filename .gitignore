@@ -1,3 +1,2 @@
-lua/Firmware/*
-!lua/Firmware/.empty
+lua/Firmware/*.bin
 ESPlorer.Log
