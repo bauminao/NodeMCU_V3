@@ -1,0 +1,3 @@
+lua/Firmware/*
+!lua/Firmware/.empty
+ESPlorer.Log
